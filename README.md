@@ -1,1 +1,1 @@
-# Посмотри в окно
+https://github.com/sosuke-pi/posmotri-v-okno-ad
